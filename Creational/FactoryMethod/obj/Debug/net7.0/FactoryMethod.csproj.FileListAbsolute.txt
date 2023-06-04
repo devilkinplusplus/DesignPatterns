@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\user\source\repos\DesignPatterns\Creational\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll
