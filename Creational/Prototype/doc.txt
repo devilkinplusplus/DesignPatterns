@@ -1,0 +1,4 @@
+﻿Prototype design patterni ilə əlimizdəki mövcud obyektlərin prototiplərini çıxara, başqa bir deyişlə obyektlərin kopyalarını
+əldə edə bilirik. (Kopyalanmasına baxmayaraq heapda olan adreslər müxtəlif olacaq)
+Bu patternin əsas gücü cari obyekt üzərindən eyni tipdə başqa bir obyekti dərhal yarada bilirik.
+Bu sayədə obyektin yaradılması mümkün maliyyətlərdən də qurtulmuş oluruq (Maliyyət yəni parametrli constructor və s.)

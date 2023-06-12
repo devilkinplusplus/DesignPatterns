@@ -1,0 +1,3 @@
+﻿Obyektimiz dinamik olaraq dəyişə bilər, yəni zamanla obyektin strukturu dəyişə bilər yaxud obyektlərin yaradılması maliyyətli
+ola bilər. Bu kimi hallarda Builder Design Patterni ilə obyektlər genişləməyə açıq hala gətirilir və kod qarmaşası minimala 
+enir.

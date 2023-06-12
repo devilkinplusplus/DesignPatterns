@@ -1,0 +1,7 @@
+﻿Əsl məqsəd qurmaq istədiyimiz classın özündən bir nümunə yaratmaq yerinə Factory Method patterni sayəsində tək bir instance
+üzərindən obyektin yaradılmasını təmin etməkdir.
+Alqoritmdə bəzi addımlarda fərqli tipdə obyektlərə ehtiyacımız ola bilər, bu halda if-switch blokları yazmaq yerinə
+Factory Method patternindən istifadə edə bilərik.
+
+Əlaqəli olan (inheritance) birdən çox obyektin qurulmasını ortaq tək bir tip ilə tək bir sinif üzərindən yaratmağımızı və
+beləcə asılılıqları sıfıra endirməyimizi təmin edir.

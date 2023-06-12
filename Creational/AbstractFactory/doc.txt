@@ -1,0 +1,3 @@
+﻿Əlaqəli olan (relations) birdən çox obyektin yaradılmasını tək bir tip ilə deyil hər məhsul ailəsi üçün fərqli bir tip ilə
+yaratmağımızı təmin edir.
+Yəni birdən çox məhsul ailəsi ilə işlədiyimiz zamanlarda istifadə edilə bilər.

@@ -10,3 +10,5 @@ Player player2 = (Player)player1.Clone();
 if (player1.Equals(player2))
     Console.WriteLine("Same object");
 else Console.WriteLine("Different");
+
+//Nəticə : Different

@@ -1,0 +1,5 @@
+﻿Adapter design patterni uyğunsuz interfeyslərə sahib obyektlərin birlikdə işləməsini təmin edən quruluş
+(structural) design patterndir.
+
+Adapter design patterni fərqli interfeysləri olan sinifləri bir-birinə bağlamaq üçün istifadə edilən bir patterndir.
+Bu pattern uyğunsuz sinifləri bir araya gətirmək üçün bir ara sinif yaradır və beləcə siniflər birgə çalışa bilir.

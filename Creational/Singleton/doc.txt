@@ -1,0 +1,4 @@
+﻿Bu patterndə istifadəçiyə özbaşına obyekt yaratmağa icazə verilmir, yəni istifadəçi new ilə obyekt yarada bilməz. 
+İstifadəçi bizdən obyekt tələb edə bilər, bu tələbə cavab olaraq biz də istifadəçiyə yaddaşda var olan obyekti verəcəyik. 
+Beləcə istifadəçi yalnızca bir obyekt ilə işləməli olacaq.
+Bir iş üçün 50 fərqli obyekt yaratmaq yerinə sadəcə 1 obyekt ilə işi görməli olduğumuz senaryolarda istifadə edə bilərik.
