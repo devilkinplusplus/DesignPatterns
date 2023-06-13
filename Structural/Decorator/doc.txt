@@ -1,0 +1,12 @@
+﻿Development zamanı bir classdakı metodun vəzifəsini dəyişdirmək,genişlətmək məqsədilə 
+bu pattern istifadə edilə bilər.
+Decorator patterni sinifə metod əlavə etmək üçün deyil, 
+mövcud sinfin mövcud metodunun funksionallığını genişləndirmək üçün istifadə olunur.
+
+Daha dəqiq desək,
+Bir interfeys var, həmin interfeysdəki metodun işindən əvvəl yaxud sonra da fərqli bir iş görülməlidir,
+yəni metod çalışacaq amma əvvəlində yaxud sonrasında da başqa kodlar çalışmalıdır.
+SOLID-i pozmadan clean şəkildə bunları əlavə edə bilmək üçün ən yaxşı üsul Decorator patterni tətbiq etməkdir.
+
+Decorator patternin üstün bir cəhəti də odur ki,bu pattern sayəsində metoda yeni funksionallıqlar qazandırmaqla
+yanaşı əvvəlki versiyasını da istifadə edə bilirik.
