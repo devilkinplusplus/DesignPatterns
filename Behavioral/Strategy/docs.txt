@@ -1,0 +1,2 @@
+﻿Bir əməliyyat üçün birdən çox üsul olduğu vəziyyətlərdə istifadə edilə bilər.
+Bu tip senaryolarda əməliyyatın icrası üçün hansı üsulun seçiləcəyini Strategy patterni ilə müəyyən edirik.
